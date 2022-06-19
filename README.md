@@ -34,6 +34,7 @@
   <a href="https://www.youtube.com/channel/UCMwDqEEdINZIE5oyyrMBUqg/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/DaniloKunzendorff/DaniloKunzendorff/blob/output/github-contribution-grid-snake.svg)
+  
+ ![Snake animation](https://github.com/DaniloKunzendorff/DaniloKunzendorff/blob/output/github-contribution-grid-snake.svg)
  
  </div>
